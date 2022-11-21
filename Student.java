@@ -139,7 +139,7 @@ public class Student {
 	
 	}
 
-	// returns total credit required
+	// returns total credit required to pass the course
 	public int getTotalCreditRequired() {
 		return CREDIT_S;
 	}
