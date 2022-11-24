@@ -51,7 +51,7 @@ public class Grade {
 		return ans;
 
 	}
-	// returns final grade
+	// returns final grade!
 	public int computeFinalGrade(){
 		Course c = this.course;
 		return c.computeFinalGrade(grade);
